@@ -1,0 +1,12 @@
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\moviedb.exe.config
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.csprojResolveAssemblyReference.cache
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.Form1.resources
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.Properties.Resources.resources
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.csproj.GenerateResource.Cache
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\moviedb.exe
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\moviedb.pdb
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\Newtonsoft.Json.dll
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\Newtonsoft.Json.pdb
+G:\vs2012\dbMovie\moviedb\moviedb\bin\Debug\Newtonsoft.Json.xml
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.exe
+G:\vs2012\dbMovie\moviedb\moviedb\obj\Debug\moviedb.pdb
